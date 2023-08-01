@@ -30,19 +30,19 @@ This is then followed by the 'Report Field Comparison Sync Status' column that i
 
 ## Preview Image
 
-![PreviewImage1](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Sync%20Reports/Sync%20Comparison%20Report/preview1.png)
+![PreviewImage1](preview1.png)
 
-![PreviewImage2](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Sync%20Reports/Sync%20Comparison%20Report/preview2.png)
+![PreviewImage2](preview2.png)
 
 
 ## Project Level Sync Comparison Instructions
 
 1. Determine your Sync Target Project ID by either finding it in the Admin view or the project address bar URL.
-    * ![ProjectIdExtraction1](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Sync%20Reports/Sync%20Comparison%20Report/ProjectIDExtraction1of3.png)
-    * ![ProjectIdExtraction2](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Sync%20Reports/Sync%20Comparison%20Report/ProjectIDExtraction2of3.png)
-    * ![ProjectIdExtraction3](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Sync%20Reports/Sync%20Comparison%20Report/ProjectIDExtraction3of3.png)
+    * ![ProjectIdExtraction1](ProjectIDExtraction1of3.png)
+    * ![ProjectIdExtraction2](ProjectIDExtraction2of3.png)
+    * ![ProjectIdExtraction3](ProjectIDExtraction3of3.png)
 2. Open the project level list view.
-    * ![ProjectLevelListView](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Sync%20Reports/Sync%20Comparison%20Report/ProjectLevelListView.png)
+    * ![ProjectLevelListView](ProjectLevelListView.png)
 3. Open the context sensitive reports menu from the *Export* button in the list view screen.
 4. Select the report name you specified when installing the report.
 5. Ensure that the *Project Sync Comparison* parameter is checked. 
@@ -55,7 +55,7 @@ This is then followed by the 'Report Field Comparison Sync Status' column that i
 
 1. Determine the container item and or single item you wish to export as your *Source* sync export location.
 2. View the synced items to your selected *Source* sync export location using the following "View Synced Items" option.
-    * ![CrossProjectIDExtract1](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Sync%20Reports/Sync%20Comparison%20Report/CrossProjectIDExtract1.png)
+    * ![CrossProjectIDExtract1](CrossProjectIDExtract1.png)
 3. Open the context sensitive reports menu from the *Export* button in the list view screen.
 4. Select the report name you specified when installing the report.
 5. Select your boolean parameter options.
@@ -69,15 +69,15 @@ This is then followed by the 'Report Field Comparison Sync Status' column that i
 1. Determine the container item and or single item you wish to export as your *Source* sync export location.
 2. Determine your *Target* sync comparison item API ID using the following steps below.
     * Open synced items menu from your *Source* sync export location.
-    * ![CrossProjectIDExtract1](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Sync%20Reports/Sync%20Comparison%20Report/CrossProjectIDExtract1.png)
+    * ![CrossProjectIDExtract1](CrossProjectIDExtract1.png)
     * Select the "Compare" option for your desired *Target* sync comparison item.
-    * ![CrossProjectIDExtract2](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Sync%20Reports/Sync%20Comparison%20Report/CrossProjectIDExtract2.png)
+    * ![CrossProjectIDExtract2](CrossProjectIDExtract2.png)
     * Select the "Configure View" option in the top right of this menu.
-    * ![CrossProjectIDExtract3](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Sync%20Reports/Sync%20Comparison%20Report/CrossProjectIDExtract3.png)
+    * ![CrossProjectIDExtract3](CrossProjectIDExtract3.png)
     * Move the "API ID" field to the "Visable Fields" box.
-    * ![CrossProjectIDExtract4](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Sync%20Reports/Sync%20Comparison%20Report/CrossProjectIDExtract4.png)
+    * ![CrossProjectIDExtract4](CrossProjectIDExtract4.png)
     * View the API ID of the equivalent synced item container to the exported Source item and use said API ID to input into the “Cross Project” String parameter. 
-    * ![CrossProjectIDExtract5](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Sync%20Reports/Sync%20Comparison%20Report/CrossProjectIDExtract5.png)
+    * ![CrossProjectIDExtract5](CrossProjectIDExtract5.png)
 3. Open the context sensitive reports menu from the *Export* button in the list view screen.
 4. Select the report name you specified when installing the report.
 5. Select your boolean parameter options.
@@ -107,7 +107,7 @@ This report employs error handling in the following cases in which the generate 
 6. Ensure that no typos, leading, or trailing spaces are present in the *Name* field for the reports installation criteria.
 7. Click Save.
 
-![Config1](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Sync%20Reports/Sync%20Comparison%20Report/config1.png)
+![Config1](config1.png)
 
 
 ### Report Criteria

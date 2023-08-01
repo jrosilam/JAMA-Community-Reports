@@ -4,10 +4,10 @@
 The Review Center Tracker Report generated two views of information "Per Reviewer" & "Per Review". The Per Reviewer tab displays a summary of reviewer information on reviews user has participated in. While the Per Review tab displays a quick summary of review information.
 
 ## Preview Image - Per Reviewer Tab
-![alt tag](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Review%20Center%20Reports/Review%20Center%20Tracker/RCTracker_PerReviewer.png)
+![alt tag](RCTracker_PerReviewer.png)
 
 ## Preview Image - Per Review Tab
-![alt tag](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Review%20Center%20Reports/Review%20Center%20Tracker/RCTracker_Reviews.png)
+![alt tag](RCTracker_Reviews.png)
 
 ## Installation Instructions
 1. Go to the Admin section of Jama
@@ -16,8 +16,8 @@ The Review Center Tracker Report generated two views of information "Per Reviewe
 4. Fill in the Add/Edit Report form as shown below.
 5. Click Save
 
-![alt tag](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Review%20Center%20Reports/Review%20Center%20Tracker/Report_config_part1.png)
-![alt tag](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Review%20Center%20Reports/Review%20Center%20Tracker/Report_config_part2.png)
+![alt tag](Report_config_part1.png)
+![alt tag](Report_config_part2.png)
 
 ## NOTES: 
 - Your Organization field will have a different value.  

@@ -9,10 +9,10 @@ The report organizes itself into five primary parent categories of data: Exporte
 ## Preview Images
 
 ### All Item Reviews
-![All Item Reviews](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Review%20Center%20Reports/Review%20Details%20Per%20Item%20Context%20Based/All_Item_Reviews.png)
+![All Item Reviews](All_Item_Reviews.png)
 
 ### Only Most Recent Item Reviews
-![Only Most Recent Item Reviews](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Review%20Center%20Reports/Review%20Details%20Per%20Item%20Context%20Based/Most_Recent_Item_Reviews.png)
+![Only Most Recent Item Reviews](Most_Recent_Item_Reviews.png)
 
 
 ## Installation Instructions
@@ -22,7 +22,7 @@ The report organizes itself into five primary parent categories of data: Exporte
 1. Fill in the Add/Edit Report form as shown below.
 1. Click Save
 
-![Report Configuration](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Review%20Center%20Reports/Review%20Details%20Per%20Item%20Context%20Based/Config.png)
+![Report Configuration](Config.png)
 
 ### Report Criteria
 Ensure that no typos, leading, or trailing spaces are present in the *Name* field for the reports installation criteria.

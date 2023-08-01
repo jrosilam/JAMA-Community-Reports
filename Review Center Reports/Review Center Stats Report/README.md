@@ -4,7 +4,7 @@
 The Review Center Stats report provides a quick summary of review, approvers, reviewers, and review item(s) information.
 
 ## Preview Image
-![alt tag](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Review%20Center%20Reports/Review%20Center%20Stats%20Report/preview.png)
+![alt tag](preview.png)
 
 ## Installation Instructions
 1. Go to the Admin section of Jama
@@ -13,7 +13,7 @@ The Review Center Stats report provides a quick summary of review, approvers, re
 4. Fill in the Add/Edit Report form as shown below.
 5. Click Save
 
-![alt tag](https://github.com/jamasoftware-ps/Community-Reports/blob/master/Review%20Center%20Reports/Review%20Center%20Stats%20Report/config.png)
+![alt tag](config.png)
 
 ## NOTES: 
 - Your Organization field will have a different value.  

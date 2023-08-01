@@ -31,7 +31,7 @@ If the Report Runner would like to narrow in on particular “Event Activity” 
 </ol>
 <p>Helpful description to add at install: <em>Check one time parameter and the report will show data from the date the report is run. Outputs a two sheet Excel report with tabs: "Login Activity", "Event Activity". Filter by User Name, considering larger time parameters.</em></p>
 
-![InstallReport png](https://github.com/jamasoftware-ps/Community-Reports/blob/eeb5e1fc1a7cc504dd3f9a0a8a1f0aa431349e78/Login%20Usage%20Reports/User%20Activity%20and%20Event%20Report/InstallReport.png)
+![InstallReport png](InstallReport.png)
 
 <h3>Report parameters:</h3>
 
@@ -54,7 +54,7 @@ If the Report Runner would like to narrow in on particular “Event Activity” 
   <li>If filtering the report by user enter String value- first and last name (not case sensitive)</li>
  </ol>
  
- ![RunReport png](https://github.com/jamasoftware-ps/Community-Reports/blob/eeb5e1fc1a7cc504dd3f9a0a8a1f0aa431349e78/Login%20Usage%20Reports/User%20Activity%20and%20Event%20Report/RunReport.png)
+ ![RunReport png](RunReport.png)
 
  
   
